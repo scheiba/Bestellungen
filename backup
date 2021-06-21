@@ -1,0 +1,36 @@
+<img src="scheibalogo.png" alt="hi" class="inline"/>
+
+<pre>
+    Willkommen
+    Status Ihrer Bestellung bei EP:Scheiba
+    Kontakt:  05051 / 2316
+              info(at)epscheiba.com
+</pre>
+
+
+<object data="statusbestellung.html" width="800" height="600"></object>
+
+
+
+<table style="width:50%">
+  <tr>
+    <th>Kennung</th>
+    <th>Ware ist eingetroffen</th>
+    <th>Bitte um Rückmeldung</th>
+    <th>Kommentar</th>
+  </tr>
+    
+  <tr>
+    <th>0001</th>
+    <th>JA</th>
+    <th>-</th>
+    <th>-</th>
+  </tr>
+    
+  <tr>
+    <th>0002</th>
+    <th>NEIN</th>
+    <th>-</th>
+    <th>-</th>
+  </tr>
+</table> 
